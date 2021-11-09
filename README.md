@@ -7,8 +7,8 @@
 
 2. [Progress Report](Progress%20Report)
     - [Progress Report](Progress%20Report/Progress_Report.pdf)
-    - [Team Assessment](Team%20Assessment)
-        - [Peer Feedback](Peer%20Feedback/Peer-Feedback.pdf)
-        - [Team Dynamics](Team%20Dynamics/Team-Dynamics.pdf)
+    - [Team Assessment](Progress%20Report/Team%20Assessment)
+        - [Peer Feedback](Progress%20Report/Peer%20Feedback/Peer-Feedback.pdf)
+        - [Team Dynamics](Progress%20Report/Team%20Dynamics/Team-Dynamics.pdf)
     
 
