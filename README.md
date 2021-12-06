@@ -12,10 +12,10 @@
         - [Team Dynamics](Progress%20Report/Team%20Assessment/Team-Dynamics.pdf)
     
 3. [Iteration 1](Iteration%201/readme.md)
-    - [Diagrams/Views](Iteration%201/Diagrams/Views)
+    - [Diagrams/Views](Iteration%201/Diagrams%20or%20Views)
 
 4. [Iteration 2](Iteration%202/readme.md)
-    - [Diagrams/Views](Iteration%202/Diagrams/Views)
+    - [Diagrams/Views](Iteration%202/Diagrams%20or%20Views)
 
 5. [Iteration 3](Iteration%203/readme.md)
-    - [Diagrams/Views](Iteration%203/Diagrams/Views)
+    - [Diagrams/Views](Iteration%203/Diagrams%20or%20Views)
