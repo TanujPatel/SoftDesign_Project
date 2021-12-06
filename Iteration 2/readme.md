@@ -5,7 +5,7 @@ In this second iteration, besides CRN-2, the architect considers the system's pr
 - UC-2
 - UC-5
 - UC-10
-- 
+
 ## **Step 3 : Choose One or More Elements of The System to Refine**
 The elements that will be refined in this iteration are the modules located in the different layers defined by the two reference architectures from the previous iteration. In general, the support of functionality in this system requires the collaboration of components associated with modules that are located in the different layers.
 
