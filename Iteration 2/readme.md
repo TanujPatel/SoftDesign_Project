@@ -1,4 +1,4 @@
-# **Iteration 2:  Identifying Structures to Support Primary Functionality **
+# **Iteration 2:  Identifying Structures to Support Primary Functionality**
 
 ## **Step 2: Establish Iteration Goal by Selecting Drivers**
 In this second iteration, besides CRN-2, the architect considers the system's primary use cases: 
