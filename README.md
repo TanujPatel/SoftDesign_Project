@@ -13,9 +13,12 @@
     
 3. [Iteration 1](Iteration%201/readme.md)
     - [Diagrams/Views](Iteration%201/Diagrams%20or%20Views)
+    - [Tables](Iteration%201/Tables)
 
 4. [Iteration 2](Iteration%202/readme.md)
     - [Diagrams/Views](Iteration%202/Diagrams%20or%20Views)
+    - [Tables](Iteration%202/Tables)
 
 5. [Iteration 3](Iteration%203/readme.md)
     - [Diagrams/Views](Iteration%203/Diagrams%20or%20Views)
+    - [Tables](Iteration%203/Tables)
