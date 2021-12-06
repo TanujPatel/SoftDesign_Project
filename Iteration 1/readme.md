@@ -1,6 +1,7 @@
 # **Iteration 1:**
 
 ## **Step 1: Review Inputs**
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## **Step 2: Establish Iteration Goal by Selecting Drivers**
 The iteration goal is to achieve the architectural concern CRN-1 of establishing an overall system structure.
