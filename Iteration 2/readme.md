@@ -25,4 +25,4 @@ The elements that will be refined in this iteration are the modules located in t
 ## **Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose**
 The  decisions  made  in  this  iteration  provided  an  initial  understanding  of how functionality  is  supported  in  the  system.  The  modules  associated  with  the  primary use cases were identified by the architect,  and the modules associated with 
 The  rest of the functionality  was  identified by  another team member. Also, as  part of module identification, a new architectural concern was  identified and added to the Kanban board.  Drivers that were completely addressed in the previous iteration is removed from the table. 
-
+![This is an image](https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%202/Tables/Step7Table.PNG?raw=true)
