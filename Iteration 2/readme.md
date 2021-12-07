@@ -20,18 +20,21 @@ The instantiation design decisions are summarized in the following table:
 ## **Step 6:Sketch Views and Record Design Decisions**
 - Figure 2.1 shows the domain objects that are instantiated for the use case model
 - Figure 2.2 shows a sketch of a model view with modules that are derived from the business objects and with primary use case.
-- 
+
 ![This is an image](https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%202/Diagrams%20or%20Views/Step6Diagram2.PNG?raw=true)
+
 Figure 2.1: Domain objects associated with use case model
 
 
 ![This is an image](https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%202/Diagrams%20or%20Views/Step6Diagram3.PNG?raw=true)
+
 Figure 2.2: Model Supports primary use case
 
 
 **UC-2: Monitor and Manage Customers Informatino and Status**
 Figure 2.3 shows a initial sequence diagram for UC-2
 ![This is an image](https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%202/Diagrams%20or%20Views/Step6Diagram4.PNG?raw=true)
+
 Figure 2.3: Sequence Diagram for UC-2
 
 
