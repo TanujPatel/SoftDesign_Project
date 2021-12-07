@@ -1,6 +1,7 @@
 # **Iteration 1: Establishing an Overall System Structure**
 
 ## **Step 1: Review Inputs**
+Reviewing the inputs and identifying the requirements that will be considered as drivers for ADD method
 ![This is an image](https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%201/Tables/Step1Table.PNG?raw=true)
 
 ## **Step 2: Establish Iteration Goal by Selecting Drivers**
@@ -23,6 +24,7 @@ The following table summarizes the selections of design decisions.
 
 ## **Step 5: Instantiating Architectural Elements, Allocate Responsibilities, and Defining  Interfaces**
 ![This is an image](https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%201/Tables/Step5Table.PNG?raw=true)
+
 The following tables shows the instantiation design decisions that we had considered and are summarized above.
 
 ## **Step 6:Sketch Views and Record Design Decisions**
