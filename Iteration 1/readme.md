@@ -5,7 +5,7 @@
 
 ## **Step 2: Establish Iteration Goal by Selecting Drivers**
 The iteration goal is to achieve the architectural concern CRN-1 of establishing an overall system structure.
-To review the Quality Attributes and Concerns click [here](Progress%20Report/Progress_Report.pdf).
+To review the Quality Attributes and Concerns click [here](https://github.com/TanujPatel/SoftDesign_Project/blob/main/Progress%20Report/Progress_Report.pdf).
 - QA-1
 - QA-2
 - QA-3
