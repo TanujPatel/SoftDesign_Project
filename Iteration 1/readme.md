@@ -1,4 +1,4 @@
-# **Iteration 1:**
+# **Iteration 1: Establishing an Overall System Structure**
 
 ## **Step 1: Review Inputs**
 ![This is an image](https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%201/Tables/Step1Table.PNG?raw=true)
