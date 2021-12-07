@@ -26,9 +26,13 @@ The instantiation design decisions are summarized in the following table:
 Figure 2.1: Domain objects associated with use case model
 
 
+
+
 ![This is an image](https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%202/Diagrams%20or%20Views/Step6Diagram3.PNG?raw=true)
 
 Figure 2.2: Model Supports primary use case
+
+
 
 
 **UC-2: Monitor and Manage Customers Informatino and Status**
