@@ -29,6 +29,7 @@ The following tables shows the instantiation design decisions that we had consid
 ![This is an image](https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%201/Diagrams%20or%20Views/Step6Diagram.PNG?raw=true)
 
 Figure 1.1: Module View
+
 The diagram shows a sketch of the module view of two reference architectures that are selected for client and server applications. The model has been modified according to the design decisions we have made.
 
 ## **Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose**
