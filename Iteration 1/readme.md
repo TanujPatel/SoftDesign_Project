@@ -20,6 +20,7 @@ In this case the element to refine is the entire Hotel Reservation System. The r
 ![This is an image](https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%201/Tables/Step4Table.PNG?raw=true)
 
 ## **Step 5: Instantiating Architectural Elements, Allocate Responsibilities, and Defining  Interfaces**
+![This is an image](https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%201/Tables/Step5Table.PNG?raw=true)
 
 ## **Step 6:Sketch Views and Record Design Decisions**
 ![This is an image](https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%201/Diagrams%20or%20Views/Step6Diagram.PNG?raw=true)
