@@ -22,5 +22,6 @@ In this case the element to refine is the entire Hotel Reservation System. The r
 ## **Step 5: Instantiating Architectural Elements, Allocate Responsibilities, and Defining  Interfaces**
 
 ## **Step 6:Sketch Views and Record Design Decisions**
+![This is an image](https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%201/Diagrams%20or%20Views/Step6Diagram.PNG?raw=true)
 
 ## **Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose**
