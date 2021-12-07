@@ -16,6 +16,11 @@ The elements that will be refined in this iteration are the modules located in t
 ![This is an image](https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%202/Tables/Step5Table.PNG?raw=true)
 
 ## **Step 6:Sketch Views and Record Design Decisions**
+https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%202/Diagrams%20or%20Views/Step6Diagram2.PNG?raw=true
+
+https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%202/Diagrams%20or%20Views/Step6Diagram3.PNG?raw=true
+
+https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%202/Diagrams%20or%20Views/Step6Diagram4.PNG?raw=true
 
 ## **Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose**
 The  decisions  made  in  this  iteration  provided  an  initial  understanding  of how functionality  is  supported  in  the  system.  The  modules  associated  with  the  primary use cases were identified by the architect,  and the modules associated with 
