@@ -19,6 +19,6 @@ nodes that were identified during the first iteration:
 ## **Step 6:Sketch Views and Record Design Decisions**
 
 ## **Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose**
-
+![This is an image](https://github.com/TanujPatel/SoftDesign_Project/blob/main/Iteration%203/Tables/Step7Table.PNG?raw=true)
 
 
